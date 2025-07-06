@@ -19,7 +19,6 @@ Plant diseases impact crop productivity and food security. This project builds a
 ├── requirements.txt         # Dependencies
 ├── readme.md                # Project documentation
 ├── home_page_bg.jpg         # Background image for web app
-├── plantapp/                # (Optional) Streamlit submodule
 ```
 
 ---
@@ -63,6 +62,20 @@ Plant diseases impact crop productivity and food security. This project builds a
 ---
 
 ## 🚀 How to Use
+
+### 🔗 Try the App Online  
+You can **try the model instantly** via this Hugging Face Space:  
+👉 [🌿 Plant Leaf Disease Prediction System – Hugging Face](https://huggingface.co/spaces/SaikatMohanta2025/Plant_Leaf_disease_prediction_system)  
+
+> ✅ No installation required! Just upload a leaf image and get predictions instantly.
+
+---
+
+### 🧪 Test with Sample Images  
+We’ve provided **6 sample test images** inside the `test_images/` folder of this repository.  
+You can use these for quick testing either locally or through the Hugging Face app.
+
+---
 
 ### 1️⃣ Clone the Repository
 
@@ -137,3 +150,5 @@ streamlit run app.py
 
 This project is licensed under the **MIT License**.  
 Feel free to fork, modify, or use it for your academic or personal projects.
+
+
